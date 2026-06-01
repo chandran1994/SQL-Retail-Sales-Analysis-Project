@@ -184,7 +184,7 @@ from hourly_sales
 group by shift;
 ```
 
-## Findings
+## Findings - 
 
 **The analysis revealed several important business patterns within the retail sales data.**
 
